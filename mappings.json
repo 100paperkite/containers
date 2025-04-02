@@ -1,0 +1,4 @@
+[
+    "timberio/vector:0.40.0-distroless-libc",
+    "amazon/aws-cli:latest"
+]
